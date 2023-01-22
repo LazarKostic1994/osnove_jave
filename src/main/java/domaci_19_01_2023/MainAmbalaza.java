@@ -3,7 +3,8 @@ package domaci_19_01_2023;
 import p12_01_2023.Zadatak_1.Korisnik;
 
 public class MainAmbalaza {
-//    U glavnom programu kreirati jednu Korpu i u nju dodati nekoliko Ambalaza razlicitih tipova i istestirati sve metode i ispisati ukupnu cenu sa popustom.
+//    U glavnom programu kreirati jednu Korpu i u nju dodati nekoliko Ambalaza razlicitih tipova
+//    i istestirati sve metode i ispisati ukupnu cenu sa popustom.
     public static void main(String[] args) {
 
         Korpa korpa = new Korpa();
